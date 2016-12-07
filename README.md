@@ -13,14 +13,14 @@ Windows also requires miniupnpc but can be disabled by the use of USE_UPNP=0.
 
 The easiest way to build for Ubuntu or similar Linux distributions is by using the (azure) script:
 
-https://github.com/john-connor/azure-quickstart-templates/blob/master/vcash-on-ubuntu/build_vcash.sh
+https://github.com/vdotcash/vcash/build_vcash.sh
 
 Usage:
-```curl -s https://raw.githubusercontent.com/john-connor/azure-quickstart-templates/master/vcash-on-ubuntu/build_vcash.sh | bash /dev/stdin From_Source```
+```curl -s https://raw.githubusercontent.com/vdotcash/vcash/master/build_vcash.sh | bash /dev/stdin From_Source```
 
 All other Linux distributions can use:
 
-https://github.com/john-connor/vcash-scripts/blob/master/build-linux.sh
+build-linux.sh
 
 or alternatively you can compile manually:
 
